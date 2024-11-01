@@ -56,3 +56,6 @@ Once connected, you can begin exchanging messages with other clients who are als
 ## Collaborators
 - Florecita Natawirya - 18223040
 - Gabriela Jennifer Sandy - 18223092
+
+## Demonstration Video
+https://youtu.be/XVPDpg4-maQ 
