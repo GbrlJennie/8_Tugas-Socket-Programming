@@ -45,7 +45,7 @@ The application has two main components: the server and the client.
 4. When prompted, enter the IP address and port number of the server to connect to the chat room.
 5. You will be asked to enter a username and chatroom password. This information is required to connect to the chat room. Enter a unique username and the correct password to proceed.
 
-Once connected, you can begin exchanging messages with other clients who are also connected to the server.
+Once connected, you can begin exchanging messages with other clients who are also connected to the server. Messages are sent and received via the GUI, and you can type your messages in the provided input field.
 
 ## How It Works
 - The server listens for client connections using the UDP protocol.
