@@ -16,7 +16,7 @@ A simple chat room application that allows users to exchange messages online and
    git clone https://github.com/<your-github-username>/<repository-name>.git
    cd <repository-name>
 
-2. **Prepare the Environmenty**
+2. **Prepare the Environment**
    ```bash
    python --version
 
@@ -43,12 +43,15 @@ The application has two main components: the server and the client.
    ```bash
    python client.py
 4. When prompted, enter the IP address and port number of the server to connect to the chat room.
+5. You will be asked to enter a username and chatroom password. This information is required to connect to the chat room. Enter a unique username and the correct password to proceed.
 
 Once connected, you can begin exchanging messages with other clients who are also connected to the server.
 
 ## How It Works
 - The server listens for client connections using the UDP protocol.
+- Each client must enter a username and the chatroom password before connecting. The username helps identify users in the chat room, and the password is used to control access.
 - Each client can send messages to the server, which then broadcasts the message to all connected clients.
+- To exit the chat, press QUIT. This will disconnect the client from the server and close the application.
 
 ## Collaborators
 - Florecita Natawirya - 18223040
