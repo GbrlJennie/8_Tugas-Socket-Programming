@@ -28,7 +28,7 @@ A simple chat room application that allows users to exchange messages online and
 ## How to Run the Application
 The application has two main components: the server and the client.
 
-### 1. Running the Server
+### 1. Running the Server.py
 1. Open a terminal window.
 2. Navigate to the directory containing server.py.
 3. Start the server using the following command:
@@ -36,7 +36,7 @@ The application has two main components: the server and the client.
    python server.py
 4. The server will start and listen for incoming client connections. Make note of the IP address and port where the server is running, as the client will need these to connect.
 
-### 2. Running the Server
+### 2. Running the Client.py
 1. Open a terminal window.
 2. Navigate to the directory containing client.py.
 3. Start the server using the following command:
