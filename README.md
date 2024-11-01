@@ -1,10 +1,10 @@
 # UDP-Socket-Programming
 
-A simple chat room application that allows users to exchange messages online and in real-time. This application is built using Python (version 3.10 or higher) and utilizes the UDP transport protocol. It is compatible with Windows and Linux-based operating systems.
+A simple chat room application that allows users to exchange messages online and in real-time. This application is built using Python and utilizes the UDP transport protocol. It is compatible with Windows and Linux-based operating systems.
 
 ## Requirements
 
-- Python 3.10 or higher
+- Python
 - Access to a terminal or command prompt
 
 ## Getting Started
